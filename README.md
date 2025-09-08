@@ -78,6 +78,19 @@ git을 시작하기 위한 간편 안내서. 어렵지 않아요 :)
   git push
   ```
 
+ 명령어 요약표
+작업	명령어
+Git 초기화	git init
+사용자 설정	git config --global ...
+파일 추적	git add 파일명
+커밋 생성	git commit -m "메시지"
+GitHub 연결	git remote add origin URL
+브랜치 이름 변경	git branch -m main
+코드 푸시	git push origin main
+인증 저장	git config --global credential.helper store
+코드 가져오기	git pull origin main
+  
+
 ***
 
 **참고**:  
