@@ -78,31 +78,21 @@ git을 시작하기 위한 간편 안내서. 어렵지 않아요 :)
   git push
   ```
 
- 명령어 요약표
-작업	명령어
-Git 초기화	git init
-사용자 설정	git config --global ...
-파일 추적	git add 파일명
-커밋 생성	git commit -m "메시지"
-GitHub 연결	git remote add origin URL
-브랜치 이름 변경	git branch -m main
-코드 푸시	git push origin main
-인증 저장	git config --global credential.helper store
-코드 가져오기	git pull origin main
+
+| 작업                 | 명령어                                      |
+|----------------------|---------------------------------------------|
+| Git 초기화           | git init                                    |
+| 사용자 설정          | git config --global ...                      |
+| 파일 추적            | git add 파일명                               |
+| 커밋 생성            | git commit -m "메시지"                      |
+| GitHub 연결          | git remote add origin URL                    |
+| 브랜치 이름 변경     | git branch -m main                           |
+| 코드 푸시            | git push origin main                         |
+| 인증 저장            | git config --global credential.helper store   |
+| 코드 가져오기        | git pull origin main                         |
+
+
   
 
 ***
 
-**참고**:  
-- 파일/폴더 추가, 삭제, 브랜치 생성, 이슈 관리 등 더 많은 기능이 있으니 차근차근 익혀가면 좋습니다.[1][3][5]
-- GitHub 웹 화면에서도 파일 추가 및 복사, README 수정이 가능합니다.[2][3]
-
-[1](https://nbcamp.spartacodingclub.kr/blog/%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EA%B9%83%ED%97%88%EB%B8%8C-%EA%B0%80%EC%9D%B4%EB%93%9C-git%EA%B3%BC-%EC%B0%A8%EC%9D%B4-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%94%84%EB%A1%9C%ED%95%84-%EA%BE%B8%EB%AF%B8%EA%B8%B0%EA%B9%8C%EC%A7%80-47204)
-[2](https://maos.tistory.com/entry/%EA%B9%83%ED%97%88%EB%B8%8CGitHub-%EA%B0%80%EC%9E%85-%EB%B0%A9%EB%B2%95%EB%B6%80%ED%84%B0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EC%83%9D%EC%84%B1%C2%B7%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C%EA%B9%8C%EC%A7%80-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EA%B0%80%EC%9D%B4%EB%93%9C-1)
-[3](https://garoro77.tistory.com/entry/GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-2025-%E2%80%93-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B3%84%EC%A0%95-%EC%83%9D%EC%84%B1%EB%B6%80%ED%84%B0-%ED%98%91%EC%97%85%EA%B9%8C%EC%A7%80-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%84%A4%EB%AA%85)
-[4](https://www.jiniai.biz/2025/05/08/git-github-%EA%B8%B0%EC%B4%88-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5-%EB%8B%A8%EA%B3%84%EB%B3%84-%EC%98%88%EC%A0%9C%EC%99%80-%ED%95%A8%EA%BB%98-%EB%B0%B0%EC%9A%B0/)
-[5](https://commutemochabread.tistory.com/44)
-[6](https://commutemochabread.tistory.com/29)
-[7](https://wooniblo.com/entry/2025-%EC%B5%9C%EC%8B%A0-%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-Git-GitHub-%EC%82%AC%EC%9A%A9%EB%B2%95-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC-%ED%95%84%EC%88%98-%EC%8A%A4%ED%82%AC)
-[8](https://aspdotnet.tistory.com/3415)
-[9](https://garoro77.tistory.com/entry/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC-%EB%B0%A9%EB%B2%95-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C-%E2%80%93-%EC%B4%88%EB%B3%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%8F%84-%EC%8B%9C%EC%9E%91%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-2025%EB%85%84-%EC%8B%A4%EC%A0%84-%ED%8C%81)
