@@ -1,5 +1,6 @@
 # git - 간편 안내서
 git을 시작하기 위한 간편 안내서. 어렵지 않아요 :)
+**추천) git 안내서 보러가기(클릭)**: [Git 안내서](https://rogerdudler.github.io/git-guide/index.ko.html?utm_source=chatgpt.com)
 
 ***
 
