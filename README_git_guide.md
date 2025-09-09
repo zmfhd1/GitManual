@@ -87,7 +87,7 @@
   git push
   ```
 
-- Git 주요 명령어  
+- Git 주요 명령어 정리 
 
 ```bash
 # Git 초기화
