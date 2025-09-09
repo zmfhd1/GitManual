@@ -6,9 +6,9 @@
 
 | 번호 | 제목               | 링크                                                                                     |
 | -- | ---------------- | -------------------------------------------------------------------------------------- |
-| 1  | **공식 Git 가이드**   | [Git - 공식 가이드 보러가기](https://git-scm.com/book/ko/v2)                                    |
-| 2  | **OSS포럼 Git 실습** | [오픈소스 개발을 위한 Git 사용법 실습](https://www.slideshare.net/slideshow/git-71791911/71791911)   |
-| 3  | **간단 요약 가이드**    | [rogerdudler - Git 간편 안내서 보러가기](https://rogerdudler.github.io/git-guide/index.ko.html) |
+| 1  | **Git 공식 가이드**   | [보러가기](https://git-scm.com/book/ko/v2)                                    |
+| 2  | **OSS포럼 - 오픈소스 개발을 위한 Git 사용법 실습** | [보러가기](https://www.slideshare.net/slideshow/git-71791911/71791911)   |
+| 3  | **rogerdudler - Git 간편 안내서**    | [보러가기](https://rogerdudler.github.io/git-guide/index.ko.html) |
 
 
 
