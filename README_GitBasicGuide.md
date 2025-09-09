@@ -2,9 +2,9 @@
 git을 시작하기 위한 간편 안내서입니다.
 한이음 드림업 사무국에서 작성한 가이드 외에도 아래 가이드를 활용해보세요.
 
-<a href="https://git-scm.com/book/ko/v2" target="_blank">1. Git - 공식 가이드 보러가기</a>
-<a href="https://www.slideshare.net/slideshow/git-71791911/71791911" target="_blank">2. OSS포럼 - 오픈소스 개발을 위한 Git 사용법 실습</a>
-<a href="https://rogerdudler.github.io/git-guide/index.ko.html" target="_blank">3. rogerdudler - Git 간편 안내서 보러가기</a>
+<a href="https://git-scm.com/book/ko/v2" target="_blank">1. Git - 공식 가이드 보러가기</a></br>
+<a href="https://www.slideshare.net/slideshow/git-71791911/71791911" target="_blank">2. OSS포럼 - 오픈소스 개발을 위한 Git 사용법 실습</a></br>
+<a href="https://rogerdudler.github.io/git-guide/index.ko.html" target="_blank">3. rogerdudler - Git 간편 안내서 보러가기</a></br>
 
 ## Git & GitHub 기초 사용법 가이드
 
