@@ -5,8 +5,6 @@ git을 시작하기 위한 간편 안내서입니다.
 [1. Git - 공식 가이드 보러가기](https://git-scm.com/book/ko/v2) <br>
 [2. OSS포럼 - 오픈소스 개발을 위한 Git 사용법 실습](https://www.slideshare.net/slideshow/git-71791911/71791911) <br>
 [2. rogerdudler - Git 간편 안내서 보러가기](https://rogerdudler.github.io/git-guide/index.ko.html) <br>
-[3. Git & GitHub 기초사용법 예제와 함께 배우러 가기](https://rogerdudler.github.io/git-guide/index.ko.html) 
-
 ## Git & GitHub 기초 사용법 가이드
 
 ### Git과 GitHub란?
