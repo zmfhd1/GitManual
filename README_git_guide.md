@@ -20,7 +20,7 @@
 ### 1. Git 설치 및 설정
 - https://git-scm.com 에서 Git 다운로드 및 설치.
 - 최초 1회, 사용자 등록(이름/이메일):
-  ```
+  ```bash
   git config --global user.name "사용자이름"
   git config --global user.email "이메일주소"
   ```
@@ -34,39 +34,39 @@
 
 ### 3. 프로젝트 폴더를 Git과 연결
 - 폴더를 만들고 이동:
-   ```
+   ```bash
    mkdir my-project
    cd my-project
    ```
 - Git 저장소 초기화:
-   ```
+   ```bash
    git init
    ```
    명령을 실행하면 Git이 폴더를 버전 관리 대상으로 인식.
 
 ### 4. 버전 관리의 시작: 파일 추가, 커밋
 - 변경사항 확인:  
-  ```
+  ```bash
   git status
   ```
 - 새 파일 추가(스테이징):
-  ```
+  ```bash
   git add 파일명
   ```
 - 커밋(저장):
-  ```
+  ```bash
   git commit -m "첫 커밋 메시지"
   ```
   커밋은 프로젝트의 순간 상태를 저장.
 
 ### 5. GitHub와 연동 및 코드 업로드
 - 원격 저장소 연결:
-  ```
+  ```bash
   git remote add origin https://github.com/내아이디/저장소이름.git
   git branch -M main
   ```
 - 최초 업로드(Push):
-  ```
+  ```bash
   git push -u origin main
   ```
   이후부터는 변경/저장/업로드 순서로 반복.
