@@ -88,7 +88,7 @@
   ```
 
 - Git 주요 명령어  
-```java
+```
 
 # Git 초기화
 git init
