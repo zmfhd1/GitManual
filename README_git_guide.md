@@ -88,19 +88,42 @@
   ```
 
 - Git 주요 명령어
+  ```
+  git add .
+  git commit -m "변경사항 설명"
+  git push
+  ```
   
+```bash
 
-| 작업                 | 명령어                                      |
-|----------------------|---------------------------------------------|
-| Git 초기화           | git init                                    |
-| 사용자 설정          | git config --global ...                      |
-| 파일 추적            | git add 파일명                               |
-| 커밋 생성            | git commit -m "메시지"                      |
-| GitHub 연결          | git remote add origin URL                    |
-| 브랜치 이름 변경     | git branch -m main                           |
-| 코드 푸시            | git push origin main                         |
-| 인증 저장            | git config --global credential.helper store   |
-| 코드 가져오기        | git pull origin main                         |
+# Git 초기화
+git init
+
+# 사용자 설정 (이름과 이메일)
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+
+# 파일 추적 (스테이지에 추가)
+git add 파일명
+
+# 커밋 생성
+git commit -m "메시지"
+
+# GitHub 원격 저장소 연결
+git remote add origin https://github.com/사용자명/저장소명.git
+
+# 브랜치 이름 변경 (예: master → main)
+git branch -m main
+
+# 코드 푸시 (GitHub 업로드)
+git push origin main
+
+# 인증 저장 (토큰/비밀번호 기억)
+git config --global credential.helper store
+
+# 원격 저장소에서 코드 가져오기
+git pull origin main
+```
 
 
   
