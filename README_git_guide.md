@@ -73,23 +73,23 @@
 
 ### 6. 협업과 버전관리에 자주 쓰는 명령어
 - 기존 소스 최신화(가져오기):
-  ```
+  ```bash
   git pull
   ```
 - 커밋 기록 보기:
-  ```
+  ```bash
   git log
   ```
 - 새로운 변경 업로드:
-  ```
+  ```bash
   git add .
   git commit -m "변경사항 설명"
   git push
   ```
 
 - Git 주요 명령어  
-```
 
+```bash
 # Git 초기화
 git init
 
