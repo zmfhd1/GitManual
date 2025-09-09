@@ -1,9 +1,10 @@
-# git - 간편 안내서
-git을 시작하기 위한 간편 안내서. 어렵지 않아요 :)
+# Git 기초 사용법
+git을 시작하기 위한 간편 안내서입니다.
+한이음 드림업 사무국에서 작성한 가이드 외에도 아래 가이드를 활용해보세요.
 
-저희 사무국에서 작성한 가이드 외에도 아래 가이드를 활용해보세요.
-
-[추천 git 안내서 보러가기(클릭)](https://rogerdudler.github.io/git-guide/index.ko.html?utm_source=chatgpt.com)
+[1. Git 공식 가이드 보러가기](https://git-scm.com/book/ko/v2)
+[2. Git 간편 안내서 보러가기](https://rogerdudler.github.io/git-guide/index.ko.html)
+[3. Git & GitHub 기초사용법 예제와 함께 배우러 가기](https://rogerdudler.github.io/git-guide/index.ko.html)
 
 ## Git & GitHub 기초 사용법 가이드
 
@@ -80,9 +81,8 @@ git을 시작하기 위한 간편 안내서. 어렵지 않아요 :)
   git commit -m "변경사항 설명"
   git push
   ```
-
-
-| 작업                 | 명령어                                      |
+  
+- | 작업                 | 명령어                                      |
 |----------------------|---------------------------------------------|
 | Git 초기화           | git init                                    |
 | 사용자 설정          | git config --global ...                      |
