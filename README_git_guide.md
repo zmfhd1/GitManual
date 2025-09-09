@@ -33,12 +33,12 @@
 - (필수2) README.md 파일 추가로 소개글 작성해주세요.
 
 ### 3. 프로젝트 폴더를 Git과 연결
-3-1. 폴더를 만들고 이동:
+- 폴더를 만들고 이동:
    ```
    mkdir my-project
    cd my-project
    ```
-3-2. Git 저장소 초기화:
+- Git 저장소 초기화:
    ```
    git init
    ```
