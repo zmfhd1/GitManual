@@ -19,16 +19,16 @@
 
 ### 1. Git 설치 및 설정
 - https://git-scm.com 에서 Git 다운로드 및 설치.
-- 최초 1회, 사용자 등록(이름/이메일):
+- 최초 1회, 사용자 등록(이름/이메일): 이 명령은 이후 커밋 기록에 표시됨
   ```bash
   git config --global user.name "사용자이름"
   git config --global user.email "이메일주소"
   ```
-  이 명령은 이후 커밋 기록에 표시됨.
+ 
 
 ### 2. GitHub 계정 및 저장소 생성
 - https://github.com 에 가입(무료).
-- 로그인 후 'New' → 저장소 이름 입력 → 'Public(공개)' 또는 'Private(비공개)' 선택 후 생성.
+- 로그인 후 'New' → 저장소 이름 입력 → 'Public(공개)' 선택 후 생성.
 - (필수1) 한이음 드림업 제출 레포지토리는 꼭 Public으로 설정해주세요.
 - (필수2) README.md 파일 추가로 소개글 작성해주세요.
 
