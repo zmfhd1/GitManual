@@ -87,14 +87,8 @@
   git push
   ```
 
-- Git 주요 명령어
-  ```
-  git add .
-  git commit -m "변경사항 설명"
-  git push
-  ```
-  
-```bash
+- Git 주요 명령어  
+```java
 
 # Git 초기화
 git init
